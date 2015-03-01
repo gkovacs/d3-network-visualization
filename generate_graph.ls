@@ -15,11 +15,12 @@ for topic,idx in topics
   name_to_idx[name] = idx
 
 for topic,idx in topics
+  {name, children} = topic
   nodes.push {
     name
+    node: idx
     group: 1
   }
-  {name, children} = topic
   if children?
     for child in children
       source = idx

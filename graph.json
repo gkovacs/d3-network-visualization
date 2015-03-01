@@ -1,43 +1,53 @@
 {
   "nodes": [
     {
-      "name": "classification-algorithms",
-      "group": 1
-    },
-    {
       "name": "algorithms",
+      "node": 0,
       "group": 1
     },
     {
       "name": "data-structures",
+      "node": 1,
       "group": 1
     },
     {
       "name": "trees",
+      "node": 2,
       "group": 1
     },
     {
       "name": "binary-trees",
+      "node": 3,
       "group": 1
     },
     {
       "name": "balanced-binary-trees",
+      "node": 4,
       "group": 1
     },
     {
       "name": "lists",
+      "node": 5,
       "group": 1
     },
     {
       "name": "queues",
+      "node": 6,
       "group": 1
     },
     {
       "name": "b-trees",
+      "node": 7,
       "group": 1
     },
     {
       "name": "avl-trees",
+      "node": 8,
+      "group": 1
+    },
+    {
+      "name": "classification-algorithms",
+      "node": 9,
       "group": 1
     }
   ],
