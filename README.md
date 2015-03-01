@@ -14,7 +14,7 @@ It currently depends on the following modules:
 
     npm install jsonfile lson
 
-If you haven't yet installed LiveScript, do:
+If you haven't yet installed [LiveScript](http://livescript.net/), do:
 
     npm install -g LiveScript
 
